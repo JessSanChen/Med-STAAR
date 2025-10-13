@@ -1,8 +1,11 @@
 # Med-STAAR: Strategic Telehealth Assignments for Adaptive Rostering
 
 By Felix Chen, Jessica Chen. Grand Prize Winner of Rutgers Health Hack 2025.
-
-<img width="1440" height="775" alt="Screenshot 2025-10-12 at 11 55 39 AM" src="https://github.com/user-attachments/assets/75157f36-0665-4d29-8aef-ce5fdc779e34" />
+<p align="center">
+<img width="500" alt="Screenshot 2025-10-13 at 10 30 08 AM" src="https://github.com/user-attachments/assets/1290cac2-474e-4b74-822b-8524f527b380" />
+</p>
+## Dashboard
+<img width="1440" alt="Screenshot 2025-10-12 at 11 55 39 AM" src="https://github.com/user-attachments/assets/75157f36-0665-4d29-8aef-ce5fdc779e34" />
 <img width="1440" height="775" alt="Screenshot 2025-10-12 at 11 56 29 AM" src="https://github.com/user-attachments/assets/533195eb-3ebb-425b-87a0-065c3d8745cc" />
 <img width="1440" height="775" alt="Screenshot 2025-10-12 at 11 56 51 AM" src="https://github.com/user-attachments/assets/06d2f766-123a-4ad2-aa73-cc6433adebbb" />
 <img width="1440" height="775" alt="Screenshot 2025-10-12 at 11 57 00 AM" src="https://github.com/user-attachments/assets/96c40f75-1854-493c-a9f7-bccec834aa08" />
